@@ -1,0 +1,19 @@
+{
+    "events": [
+        {
+            "Day": "15",
+            "Month": "APR", 
+            "Title": "Ice Skate Tour"
+        },
+        {
+            "Day": "16",
+            "Month": "APR", 
+            "Title": "Helsinki Walking Tour"
+        },
+        {
+            "Day": "17",
+            "Month": "APR", 
+            "Title": "Helsinki Sightseeing"
+        }
+      ]
+}
