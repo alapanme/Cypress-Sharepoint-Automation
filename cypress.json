@@ -1,0 +1,11 @@
+{
+  "env": {
+    "username": "",
+    "password": "",
+    "pageUrl": "login.microsoftonline.com",
+    "appUrl": "",
+    "appDocumentUrl":""
+  },
+  "projectId": "",
+  "defaultCommandTimeout": 10000
+}
